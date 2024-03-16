@@ -7,9 +7,7 @@ function Header(props: any) {
         <img src={logo} className="logo" alt="logo" height="400" />
       </div>
       <div className="col subtitle">
-        <h1 className="text-white">
-          {props.title}Marlin and Shark Bowling League Team Members
-        </h1>
+        <h1 className="text-white">{props.title}Bowling League Team Members</h1>
       </div>
     </header>
   );
