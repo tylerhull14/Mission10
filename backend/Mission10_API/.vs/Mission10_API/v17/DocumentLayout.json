@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|c:\\users\\hccam\\source\\repos\\mission10_cameron\\backend\\mission10_api\\data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|solutionrelative:data\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|c:\\users\\hccam\\source\\repos\\mission10_cameron\\backend\\mission10_api\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|solutionrelative:controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|c:\\users\\hccam\\source\\repos\\mission10_cameron\\backend\\mission10_api\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|c:\\users\\hccam\\source\\repos\\mission10_cameron\\backend\\mission10_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|c:\\users\\hccam\\source\\repos\\mission10_cameron\\backend\\mission10_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9CA6DD-DEEA-45F3-89B3-AA0DD1FE3400}|Mission10_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "Controllers\\BowlersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:55:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Data\\Bowler.cs",
+              "RelativeToolTip": "Data\\Bowler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:34:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:08:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T16:08:07.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Data\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\hccam\\source\\repos\\Mission10_Cameron\\backend\\Mission10_API\\Data\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:35:55.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
